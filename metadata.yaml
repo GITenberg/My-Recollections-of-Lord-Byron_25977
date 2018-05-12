@@ -1,0 +1,39 @@
+_repo: My-Recollections-of-Lord-Byron_25977
+_version: 0.1.0
+alternative_title: Lord Byron jugé par les témoins de sa vie. English
+contributor:
+  translator:
+    agent_name: Jerningham, Hubert E. H. (Hubert Edward Henry), Sir
+    birthdate: 1842
+    deathdate: 1914
+    gutenberg_agent_id: '31716'
+    url: http://www.gutenberg.org/2009/agents/31716
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guiccioli, Teresa, contessa di
+    alias: Boissy, Teresa
+    birthdate: 1800
+    deathdate: 1873
+    gutenberg_agent_id: '31709'
+    url: http://www.gutenberg.org/2009/agents/31709
+    wikipedia: http://en.wikipedia.org/wiki/Teresa,_Contessa_Guiccioli
+description: ''
+gutenberg_issued: '2008-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25977'
+  lccn: '17016587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824'
+title: My Recollections of Lord Byron
+url: http://www.gutenberg.org/ebooks/25977
